@@ -29,10 +29,11 @@ body {
     align-items: center;
 }
 
-#d20{
-    padding: 10px;
+#tela{
+    padding: 20px;
     font-weight: bold;
-    font-size: 3em;
+    font-size: 1em;
+    text-align: center;
 }
 
 #btn1{
@@ -44,6 +45,7 @@ body {
     background-color: rgb(187, 68, 187);
     color: rgb(253, 242, 242);
     border: 0px;
+    box-shadow: 10px 10px 18px rgba(0, 0, 0, 0.356);
     
 }
 
