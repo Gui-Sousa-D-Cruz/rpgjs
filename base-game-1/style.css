@@ -36,7 +36,7 @@ body {
     text-align: center;
 }
 
-#btn1{
+#btn1,#btn2,#btn3{
     padding: 10px;
     border-radius: 30px;
     width: 200px;
